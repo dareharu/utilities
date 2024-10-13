@@ -24,7 +24,7 @@ specifiers:
   pretty-quick: ^3.3.1
   tslib: ^2.6.2
   typedoc: ^0.25.13
-  typedoc-plugin-mdn-links: ^2.0.2
+  typedoc-plugin-mdn-links: ^3.3.3
   typescript: ^4.9.5
   vitest: ^0.34.6
 
@@ -54,7 +54,7 @@ devDependencies:
   prettier: 2.8.8
   pretty-quick: 3.3.1_prettier@2.8.8
   typedoc: 0.25.13_typescript@4.9.5
-  typedoc-plugin-mdn-links: 2.0.2_typedoc@0.25.13
+  typedoc-plugin-mdn-links: 3.3.3_typedoc@0.25.13
   typescript: 4.9.5
   vitest: 0.34.6_@vitest+ui@0.34.7
 
@@ -4386,10 +4386,10 @@ packages:
       possible-typed-array-names: 1.0.0
     dev: true
 
-  /typedoc-plugin-mdn-links/2.0.2_typedoc@0.25.13:
-    resolution: {integrity: sha512-Fzjvfsj3rxvmZNqWRvq9JTGBkOkrPp0kBtvJCJ4U5Jm14OF1KoRErtmwgVQcPLA5Xs8h5I/W4uZBaL8SDHsgxQ==}
+  /typedoc-plugin-mdn-links/3.3.3_typedoc@0.25.13:
+    resolution: {integrity: sha512-XIYQsaTeIScwpkFZg+yXR2s0V/D5UlY11AbPjIEgZ2g8aE+IYUn4Ci4cUFRcZpWqQfjfAj2XcJG3tRejCBPisw==}
     peerDependencies:
-      typedoc: 0.22.x || 0.23.x
+      typedoc: '>= 0.23.14 || 0.24.x || 0.25.x || 0.26.x'
     dependencies:
       typedoc: 0.25.13_typescript@4.9.5
     dev: true
