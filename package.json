@@ -49,21 +49,21 @@
     }
   },
   "dependencies": {
-    "tslib": "^2.6.2"
+    "tslib": "^2.8.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-angular": "^17.8.1",
     "@sapphire/ts-config": "^3.3.4",
-    "@types/node": "^18.19.33",
+    "@types/node": "^18.19.64",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vitest/ui": "^0.34.7",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.57.0",
+    "eslint": "^8.57.1",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
-    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-simple-import-sort": "^8.0.0",
@@ -73,7 +73,7 @@
     "lint-staged": "^13.3.0",
     "prettier": "^2.8.8",
     "pretty-quick": "^3.3.1",
-    "typedoc": "^0.25.13",
+    "typedoc": "^0.26.11",
     "typedoc-plugin-mdn-links": "^2.0.2",
     "typescript": "^4.9.5",
     "vitest": "^0.34.6"
