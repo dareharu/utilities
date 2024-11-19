@@ -52,8 +52,8 @@
     "tslib": "^2.8.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.8.1",
-    "@commitlint/config-angular": "^17.8.1",
+    "@commitlint/cli": "^19.6.0",
+    "@commitlint/config-angular": "^19.6.0",
     "@sapphire/ts-config": "^3.3.4",
     "@types/node": "^18.19.64",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
