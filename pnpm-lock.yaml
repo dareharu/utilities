@@ -23,7 +23,7 @@ specifiers:
   prettier: ^2.8.8
   pretty-quick: ^3.3.1
   tslib: ^2.8.1
-  typedoc: ^0.27.5
+  typedoc: ^0.27.6
   typedoc-plugin-mdn-links: ^2.0.2
   typescript: ^4.9.5
   vitest: ^0.34.6
@@ -53,8 +53,8 @@ devDependencies:
   lint-staged: 13.3.0
   prettier: 2.8.8
   pretty-quick: 3.3.1_prettier@2.8.8
-  typedoc: 0.27.5_typescript@4.9.5
-  typedoc-plugin-mdn-links: 2.0.2_typedoc@0.27.5
+  typedoc: 0.27.6_typescript@4.9.5
+  typedoc-plugin-mdn-links: 2.0.2_typedoc@0.27.6
   typescript: 4.9.5
   vitest: 0.34.6_@vitest+ui@0.34.7
 
@@ -4637,16 +4637,16 @@ packages:
       reflect.getprototypeof: 1.0.9
     dev: true
 
-  /typedoc-plugin-mdn-links/2.0.2_typedoc@0.27.5:
+  /typedoc-plugin-mdn-links/2.0.2_typedoc@0.27.6:
     resolution: {integrity: sha512-Fzjvfsj3rxvmZNqWRvq9JTGBkOkrPp0kBtvJCJ4U5Jm14OF1KoRErtmwgVQcPLA5Xs8h5I/W4uZBaL8SDHsgxQ==}
     peerDependencies:
       typedoc: 0.22.x || 0.23.x
     dependencies:
-      typedoc: 0.27.5_typescript@4.9.5
+      typedoc: 0.27.6_typescript@4.9.5
     dev: true
 
-  /typedoc/0.27.5_typescript@4.9.5:
-    resolution: {integrity: sha512-x+fhKJtTg4ozXwKayh/ek4wxZQI/+2hmZUdO2i2NGDBRUflDble70z+ewHod3d4gRpXSO6fnlnjbDTnJk7HlkQ==}
+  /typedoc/0.27.6_typescript@4.9.5:
+    resolution: {integrity: sha512-oBFRoh2Px6jFx366db0lLlihcalq/JzyCVp7Vaq1yphL/tbgx2e+bkpkCgJPunaPvPwoTOXSwasfklWHm7GfAw==}
     engines: {node: '>= 18'}
     hasBin: true
     peerDependencies:
