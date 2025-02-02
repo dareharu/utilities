@@ -39,7 +39,7 @@
     "preinstall": "npx only-allow pnpm",
     "prepare": "is-ci || husky install .github/husky"
   },
-  "packageManager": "pnpm@^7.33.7",
+  "packageManager": "pnpm@^9.15.5",
   "publishConfig": {
     "access": "public"
   },
