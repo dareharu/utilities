@@ -55,7 +55,7 @@
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-angular": "^17.8.1",
     "@sapphire/ts-config": "^3.3.4",
-    "@types/node": "^18.19.120",
+    "@types/node": "^18.19.122",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vitest/ui": "^0.34.7",
@@ -73,7 +73,7 @@
     "lint-staged": "^13.3.0",
     "prettier": "^2.8.8",
     "pretty-quick": "^3.3.1",
-    "typedoc": "^0.28.7",
+    "typedoc": "^0.28.9",
     "typedoc-plugin-mdn-links": "^2.0.2",
     "typescript": "^4.9.5",
     "vitest": "^0.34.6"
